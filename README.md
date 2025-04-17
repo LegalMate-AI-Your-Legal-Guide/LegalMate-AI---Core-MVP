@@ -88,7 +88,7 @@ cd legalmate-ai-core-mvp
 ### 2. Setup Environment Variables
 
 ```bash
-cp .env.example .env
+cp .env.local .env
 ```
 
 Update `.env` with your **OpenAI API Key** and other environment variables for Express.js and frontend (e.g., port, API base URL).
